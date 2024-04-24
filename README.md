@@ -5,7 +5,7 @@ Hi! This code can idenfity and read text from images to you and also convert PDF
 
 
 # What libs do I need?
-<img src="https://imgur.com/D16eSKI.png" alt="drawing" width="400"/>
+<img src="https://imgur.com/oMCL4sP.png" alt="drawing" width="400"/>
 
 
 ## Main code has 4 functions
